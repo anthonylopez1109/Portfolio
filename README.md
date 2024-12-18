@@ -54,8 +54,22 @@ This project involves building an **ETL (Extract, Transform, Load) pipeline** fo
   - `campaign.csv`
   - `contacts.csv`
 - **SQL Schema**: `crowdfunding_db_schema.sql`
-![ERD](https://github.com/user-attachments/assets/608fe7ce-b260-4ca0-90c7-6e705dbbe412)
 
+![ERD](https://github.com/user-attachments/assets/608fe7ce-b260-4ca0-90c7-6e705dbbe412)
+### **ERD: Entity Relationship Diagram**
+
+The **Entity Relationship Diagram (ERD)** below represents the relationships between key entities in the crowdfunding database. It provides a visual overview of how data is structured and connected across various tables, including **campaigns**, **categories**, **subcategories**, and **contacts**.
+
+#### **Key Tables:**
+- `**Campaign Table**`: Stores details about each crowdfunding campaign, including its `**goal**`, `**amount pledged**`, and `**dates**`.
+- `**Category & Subcategory Tables**`: Define the categorization of campaigns (e.g., `**Film & Video**`, `**Technology**`) and further classify them into `**subcategories**` (e.g., `**Animation**`, `**Mobile Games**`).
+- `**Contacts Table**`: Stores `**contact information**` associated with campaigns, helping to link users with their respective campaigns.
+
+#### **Relationships:**
+- The `**Campaign Table**` is linked to both the `**Category**` and `**Subcategory**` tables via `**foreign keys**`.
+- The `**Contacts Table**` connects to the `**Campaign Table**`, linking each user to a specific campaign they’re associated with.
+
+This ERD helps to understand the `**data model**` and how the different entities are related, forming the foundation for the `**ETL process**` and subsequent database operations.
 
 ---
 
