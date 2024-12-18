@@ -26,7 +26,6 @@ This project explores the stock performance of **Apple** and **Samsung** during 
 ### Data Sources:
 - **Yahoo Finance**
 - **Statista**
-
 ![my_plot1](https://github.com/user-attachments/assets/cf3f2023-2f28-43c0-b258-8ecff3d49442)
 ### Stock Performance Graph:
 
@@ -55,6 +54,8 @@ This project involves building an **ETL (Extract, Transform, Load) pipeline** fo
   - `campaign.csv`
   - `contacts.csv`
 - **SQL Schema**: `crowdfunding_db_schema.sql`
+![ERD](https://github.com/user-attachments/assets/608fe7ce-b260-4ca0-90c7-6e705dbbe412)
+
 
 ---
 
