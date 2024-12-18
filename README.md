@@ -27,6 +27,11 @@ This project explores the stock performance of **Apple** and **Samsung** during 
 - **Yahoo Finance**
 - **Statista**
 
+![my_plot1](https://github.com/user-attachments/assets/cf3f2023-2f28-43c0-b258-8ecff3d49442)
+
+
+
+
 ---
 
 ## 🔄 Project 2: Crowdfunding ETL Pipeline
