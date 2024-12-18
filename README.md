@@ -1,5 +1,6 @@
 # My Data Science Portfolio
-Welcome to my Data Science Portfolio! This repository contains the work I've completed during my Data Science boot camp. It shows a series of projects demonstrating my data analysis, machine learning, ETL pipelines, and data visualization skills. Each project focuses on real-world problems and uses various tools, including Python, Pandas, SQL, Plotly, Dash, and more.
+Welcome to my Data Science Portfolio! This repository contains the work I've completed during my Data Science boot camp. 
+It shows a series of projects demonstrating my data analysis, machine learning, ETL pipelines, and data visualization skills. Each project focuses on real-world problems and uses various tools, including Python, Pandas, SQL, Plotly, Dash, and more.
 Table of Contents
 •	Project 1: Stock Analysis of the American Phone Market
 •	Project 2: Crowdfunding ETL Pipeline
