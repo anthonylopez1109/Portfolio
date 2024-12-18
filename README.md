@@ -72,4 +72,6 @@ This project focuses on creating an interactive **dashboard** to visualize **flu
 2. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the Dashboard: python app.py
+
  
