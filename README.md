@@ -29,7 +29,7 @@ This project explores the stock performance of **Apple** and **Samsung** during 
 ![my_plot1](https://github.com/user-attachments/assets/cf3f2023-2f28-43c0-b258-8ecff3d49442)
 ### Stock Performance Graph:
 
-The graph below visualizes the stock price trends of **Apple** and **Samsung** before, during, and after the **Covid-19 pandemic**. As seen in the chart, both companies experienced significant volatility, with a sharp decline in stock prices at the start of the pandemic. Apple’s stock recovered faster than Samsung’s, demonstrating resilience in comparison to its competitor. This trend reflects market sentiment and the companies’ ability to adapt during global disruptions.
+The graph above visualizes the stock price trends of **Apple** and **Samsung** before, during, and after the **Covid-19 pandemic**. As seen in the chart, both companies experienced significant volatility, with a sharp decline in stock prices at the start of the pandemic. Apple’s stock recovered faster than Samsung’s, demonstrating resilience in comparison to its competitor. This trend reflects market sentiment and the companies’ ability to adapt during global disruptions.
 
 
 
@@ -58,7 +58,7 @@ This project involves building an **ETL (Extract, Transform, Load) pipeline** fo
 ![ERD](https://github.com/user-attachments/assets/608fe7ce-b260-4ca0-90c7-6e705dbbe412)
 ### **ERD: Entity Relationship Diagram**
 
-The **Entity Relationship Diagram (ERD)** below represents the relationships between key entities in the crowdfunding database. It provides a visual overview of how data is structured and connected across various tables, including **campaigns**, **categories**, **subcategories**, and **contacts**.
+The **Entity Relationship Diagram (ERD)** above represents the relationships between key entities in the crowdfunding database. It provides a visual overview of how data is structured and connected across various tables, including **campaigns**, **categories**, **subcategories**, and **contacts**.
 
 #### **Key Tables:**
 - `**Campaign Table**`: Stores details about each crowdfunding campaign, including its `**goal**`, `**amount pledged**`, and `**dates**`.
