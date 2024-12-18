@@ -28,7 +28,9 @@ This project explores the stock performance of **Apple** and **Samsung** during 
 - **Statista**
 
 ![my_plot1](https://github.com/user-attachments/assets/cf3f2023-2f28-43c0-b258-8ecff3d49442)
+### Stock Performance Graph:
 
+The graph below visualizes the stock price trends of **Apple** and **Samsung** before, during, and after the **Covid-19 pandemic**. As seen in the chart, both companies experienced significant volatility, with a sharp decline in stock prices at the start of the pandemic. Apple’s stock recovered faster than Samsung’s, demonstrating resilience in comparison to its competitor. This trend reflects market sentiment and the companies’ ability to adapt during global disruptions.
 
 
 
