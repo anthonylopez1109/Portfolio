@@ -1,6 +1,18 @@
-# 🧑‍💻 My Data Science Portfolio
+### 👋 About Me
 
-Welcome to my Data Science Portfolio! This repository showcases the work I completed during my Data Science bootcamp. The projects here demonstrate my skills in **data analysis**, **machine learning**, **ETL pipelines**, and **data visualization**. I tackle real-world problems using a variety of tools including **Python**, **Pandas**, **SQL**, **Plotly**, **Dash**, and more.
+Hello! My name is **Anthony Lopez**, and I’m an aspiring **Data Analyst** eager to apply my skills in transforming raw data into actionable insights. With a **Bachelor's degree in Business Management**, I have a strong understanding of **business operations** and **strategy**, which complements my newly acquired **data analysis** expertise. 
+
+🔍 **What I Do:**
+- **Data Manipulation**: Cleaning and transforming raw data into actionable insights using tools like **Pandas** and **SQL**.
+- **Data Visualization**: Building interactive dashboards and visualizations with **Plotly**, **Dash**, and **Matplotlib**.
+- **Machine Learning**: Developing predictive models to uncover trends and patterns in data.
+- **ETL Pipelines**: Extracting, transforming, and loading data for various business applications.
+
+💡 **Why I'm Excited:**
+I am passionate about applying my skills to solve real-world problems and make data-driven decisions that contribute to business growth. My background in **Business Management** allows me to approach data analysis with a strategic perspective, offering a well-rounded approach to problem-solving.
+
+🌱 **My Goal:**
+I’m currently looking for my **first Data Analyst role** and am open to various opportunities that allow me to grow, learn, and make a positive impact in the field of data science.
 
 ## 📋 Table of Contents
 
