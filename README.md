@@ -96,4 +96,28 @@ This project focuses on creating an interactive **dashboard** to visualize **flu
    pip install -r requirements.txt
 3. Run the Dashboard: python app.py
 
+![figure3](https://github.com/user-attachments/assets/c9fa02b2-17b9-4972-bfb5-b0d954b47ebb)
+### 🌍 **Flu Activity Choropleth Map**
+
+The **flu activity choropleth map** above provides an interactive view of the **flu activity** across the United States at the **state level**. The color intensity of each state corresponds to the **flu activity level**, with darker shades indicating **higher flu activity**.
+
+🔍 **Key Features:**
+- The color intensity indicates the **severity of flu activity**, with **darker shades** representing **higher activity**.
+- **Hover over each state** to see specific data points, such as flu activity levels, number of cases, and hospitalization rates.
+- **Explore trends over time** by selecting different time periods to see changes in flu activity.
+
+📊 **Insights:**
+- Identify regions with **high flu transmission** to support **targeted public health responses**.
+- Track flu trends to predict future outbreaks and inform **vaccination and healthcare efforts**.
+
+---
+
+### 📚 **Data Source**
+The data is sourced from the **CDC FluView Interactive**, offering a comprehensive view of **influenza trends**. This data can assist:
+- **Public health officials** in tracking flu spread and making timely decisions.
+- **Researchers** studying flu patterns and effectiveness of interventions.
+- The **general public** in understanding flu transmission and prevention.
+
+
+
  
