@@ -82,7 +82,7 @@ The **Entity Relationship Diagram (ERD)** above represents the relationships bet
 - The **Campaign Table** is linked to both the **Category** and **Subcategory** tables via **foreign keys**.
 - The **Contacts Table** connects to the **Campaign Table**, linking each user to a specific campaign they’re associated with.
 
-This ERD helps to understand the `**data model**` and how the different entities are related, forming the foundation for the `**ETL process**` and subsequent database operations.
+This ERD helps to understand the **Data Model** and how the different entities are related, forming the foundation for the **ETL process** and subsequent database operations.
 
 ---
 
