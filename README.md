@@ -58,14 +58,14 @@ This project involves building an **ETL (Extract, Transform, Load) pipeline** fo
 - **Data Export**: Exported structured data into **CSV files** for further analysis.
 
 ### Data Files:
-- `crowdfunding.xlsx` (Crowdfunding campaign data)
-- `contacts.xlsx` (Contact information for campaigns)
+- crowdfunding.xlsx (Crowdfunding campaign data)
+- contacts.xlsx (Contact information for campaigns)
 - **CSV Files**:
-  - `category.csv`
-  - `subcategory.csv`
-  - `campaign.csv`
-  - `contacts.csv`
-- **SQL Schema**: `crowdfunding_db_schema.sql`
+  - category.csv
+  - subcategory.csv
+  - campaign.csv
+  - contacts.csv
+- **SQL Schema**: crowdfunding_db_schema.sql
 
 ![ERD](https://github.com/user-attachments/assets/608fe7ce-b260-4ca0-90c7-6e705dbbe412)
 ### **ERD: Entity Relationship Diagram**
